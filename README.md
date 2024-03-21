@@ -1,4 +1,4 @@
-Performance Testing Challenge: Multiple API Endpoints
+**Performance Testing Challenge: Multiple API Endpoints**
 
 The performance-testing scenario included two APIs, although the challenge specified only one. The tool used for this testing was k6, a popular open-source load testing framework.
 
